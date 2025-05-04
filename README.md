@@ -26,7 +26,7 @@
 
 - Email: [твій email]
 - LinkedIn: https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4-%D1%88%D0%BF%D0%B0%D1%80%D0%B0%D0%B3%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-3b6035257/
-- Telegram: ![image](https://github.com/user-attachments/assets/0352bc1c-3c81-4eda-992c-bdb09c540e64)
+- Telegram: https://t.me/onhoriell
 
 
 - 🔍 Поглибити знання в React та Node.js
