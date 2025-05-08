@@ -17,6 +17,7 @@
 ![Мови програмування](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuuba&layout=compact&theme=radical)
 
 ### 🌟 Briefly https://github.com/Bhuuba/k5
+Deploy: https://extraordinary-platypus-69b23b.netlify.app/
 
 Короткий опис проєкту, використані технології, особливості.
 
