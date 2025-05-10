@@ -17,7 +17,7 @@
 ![Мови програмування](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuuba&layout=compact&theme=radical)
 
 ### 🌟 Briefly https://github.com/Bhuuba/k5
-Deploy: https://extraordinary-platypus-69b23b.netlify.app
+Deploy: https://briefly-company.netlify.app
 
 YT Summary AI — це вебзастосунок для інтелектуальної обробки контенту, що надає такі можливості:
 
