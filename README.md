@@ -36,7 +36,7 @@ Backend: Firebase (Auth, Firestore, Storage)
 Локалізація: i18next
 HTTP-клієнт: Axios
 
-### 🌟 Web https://github.com/Bhuuba/labaa1
+### 🌟 Web https://github.com/Bhuuba/social network
 
 Основні технології та інструменти:
 
@@ -63,7 +63,7 @@ Core — основна бізнес-логіка та моделі
 Infrastructure — робота з даними та зовнішніми сервісами
 Web — відображення та контролери
 
-🌟 LeetGPT https://github.com/Bhuuba/laba2
+### 🌟 LeetGPT https://github.com/Bhuuba/leetgpt
 Deploy: https://leetgpt.netlify.app/
 
 🧩 LeetGPT — це веб-платформа для вирішення алгоритмічних задач з підтримкою штучного інтелекту.
